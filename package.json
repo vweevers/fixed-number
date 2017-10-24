@@ -1,6 +1,6 @@
 {
   "name": "fixed-number",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Format numbers, percentages and currencies with a fixed number of digits",
   "license": "MIT",
   "author": "Vincent Weevers",
