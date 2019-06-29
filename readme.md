@@ -2,12 +2,12 @@
 
 **Format numbers, percentages and currencies with a fixed number of digits. Succinct wrapper of [`Intl.NumberFormat`] defaulting to `en-US` locale. In terms of functionality it sits between [`Number.prototype.toFixed`] and the option-rich (and consequently verbose) `Intl.NumberFormat`.**
 
-[![npm status](http://img.shields.io/npm/v/fixed-number.svg?style=flat-square)](https://www.npmjs.org/package/fixed-number)
-[![node](https://img.shields.io/node/v/fixed-number.svg?style=flat-square)](https://www.npmjs.org/package/fixed-number)
-[![Travis build status](https://img.shields.io/travis/vweevers/fixed-number.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/fixed-number)
-[![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fixed-number.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/fixed-number)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
-[![Dependency status](https://img.shields.io/david/vweevers/fixed-number.svg?style=flat-square)](https://david-dm.org/vweevers/fixed-number)
+[![npm status](http://img.shields.io/npm/v/fixed-number.svg)](https://www.npmjs.org/package/fixed-number)
+[![node](https://img.shields.io/node/v/fixed-number.svg)](https://www.npmjs.org/package/fixed-number)
+[![Travis build status](https://img.shields.io/travis/vweevers/fixed-number.svg?label=travis)](http://travis-ci.org/vweevers/fixed-number)
+[![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fixed-number.svg?label=appveyor)](https://ci.appveyor.com/project/vweevers/fixed-number)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Dependency status](https://img.shields.io/david/vweevers/fixed-number.svg)](https://david-dm.org/vweevers/fixed-number)
 
 ## Example
 

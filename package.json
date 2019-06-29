@@ -22,8 +22,7 @@
     "numberformat"
   ],
   "engines": {
-    "node": ">=4",
-    "npm": ">=2.0.0"
+    "node": ">=8"
   },
   "repository": "vweevers/fixed-number",
   "bugs": "https://github.com/vweevers/fixed-number/issues",
