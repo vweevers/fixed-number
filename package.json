@@ -5,12 +5,13 @@
   "license": "MIT",
   "author": "Vincent Weevers",
   "scripts": {
-    "test": "standard"
+    "test": "standard && doctap readme.md"
   },
   "dependencies": {
     "is-currency-code": "~1.2.0"
   },
   "devDependencies": {
+    "doctap": "^0.0.2",
     "standard": "^13.0.1"
   },
   "keywords": [
